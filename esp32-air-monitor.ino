@@ -12,7 +12,7 @@ const char* ssid = "FamiliaWM";
 const char* password = "Cam869531";
 
 // --- SEUS DADOS DO TELEGRAM ---
-#define BOT_TOKEN "8948081019:AAH_rP5cu-K3B1z-QoUi4k5VRJYUV_jB3oo"
+#define BOT_TOKEN "8948081019:AAEHOiJmU_RK8wOstP7KAwAsOY58RPxMmOs"
 #define CHAT_ID "-5549411662" // (Pode ser o seu ID pessoal ou o ID negativo do grupo ex: -100xxxxxxxxxx)
 
 WiFiClientSecure secured_client;
