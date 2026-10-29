@@ -36,9 +36,9 @@ PMS::DATA data;
 #define PIN_LED_VERMELHO 26
 #define PIN_BUZZER 27
 
-// Temporizador para o envio periódico (20 segundos = 20000 milissegundos)
+// Temporizador para o envio periódico (3600 segundos = 3600000 milissegundos)
 unsigned long ultimaMensagemPeriodica = 0;
-const long intervaloPeriodico = 20000; 
+const long intervaloPeriodico = 3600000; 
 
 void setup() {
   Serial.begin(115200);
